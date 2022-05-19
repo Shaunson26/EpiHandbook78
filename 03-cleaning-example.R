@@ -1,7 +1,9 @@
 #' Cleaning data
 #' 
-#' We follow various parts of Epi handbook Chapter 8
+#' We follow various selected parts of Epi handbook Chapter 8 .. refer to the book
+#' for greater details
 
+library(readxl)
 library(janitor)
 library(dplyr)
 library(tidyr)
